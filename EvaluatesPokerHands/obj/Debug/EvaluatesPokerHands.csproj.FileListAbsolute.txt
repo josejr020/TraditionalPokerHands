@@ -1,0 +1,6 @@
+C:\Users\Joel Gardiola\source\repos\EvaluatesPokerHands\EvaluatesPokerHands\bin\Debug\EvaluatesPokerHands.dll
+C:\Users\Joel Gardiola\source\repos\EvaluatesPokerHands\EvaluatesPokerHands\bin\Debug\EvaluatesPokerHands.pdb
+C:\Users\Joel Gardiola\source\repos\EvaluatesPokerHands\EvaluatesPokerHands\obj\Debug\EvaluatesPokerHands.csprojResolveAssemblyReference.cache
+C:\Users\Joel Gardiola\source\repos\EvaluatesPokerHands\EvaluatesPokerHands\obj\Debug\EvaluatesPokerHands.csproj.CoreCompileInputs.cache
+C:\Users\Joel Gardiola\source\repos\EvaluatesPokerHands\EvaluatesPokerHands\obj\Debug\EvaluatesPokerHands.dll
+C:\Users\Joel Gardiola\source\repos\EvaluatesPokerHands\EvaluatesPokerHands\obj\Debug\EvaluatesPokerHands.pdb
