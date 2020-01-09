@@ -23,7 +23,7 @@ Poker poker = new Poker();
 string result = poker.CheckWinner(PlayersWithCards);
 ```
 
-The return value of result is displaying the winner's and All Players details like stated below:
+The return value of result is displaying the winner/s and All Players details like stated below:
 ```
 The winners are: Jose , Jun
 Jose:AC, TC, 9C, 4S, 3C (High Card)
